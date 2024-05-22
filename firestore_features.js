@@ -2,7 +2,7 @@ import { collection, addDoc, getDocs } from 'https://www.gstatic.com/firebasejs/
 
 let alunos = {
     nome: "Luis",
-    ra: "12345",
+    ra: "00000",
 };
 
 
